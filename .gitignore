@@ -1,0 +1,9 @@
+# Entornos y Caché
+env/
+.venv/
+__pycache__/
+*.pyc
+.env
+
+# Exclusiones Adicionales (Por instrucción del usuario)
+README.md
