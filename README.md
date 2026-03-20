@@ -54,8 +54,11 @@ El sistema opera bajo un flujo de procesamiento lineal optimizado para la mínim
 
 ## 🎥 Demostración
 
-[Insertar GIF/Vídeo de demostración aquí]
-*Nota: Se recomienda un vídeo mostrando el seguimiento HUD y el cambio dinámico de colores según la emoción.*
+
+
+https://github.com/user-attachments/assets/8900304e-8276-4564-9fb5-27e0432b01d3
+
+
 
 ---
 
